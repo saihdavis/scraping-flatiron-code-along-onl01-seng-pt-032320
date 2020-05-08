@@ -43,5 +43,4 @@ end
         puts "  Description: #{course.description}"
       end
  
-end
   Scraper.new.print_courses
