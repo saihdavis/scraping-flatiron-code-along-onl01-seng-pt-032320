@@ -42,8 +42,6 @@ end
         puts "  Schedule: #{course.schedule}"
         puts "  Description: #{course.description}"
       end
-    end
-  end
  
 end
   Scraper.new.print_courses
